@@ -1,0 +1,25 @@
+.profile-header {
+    text-align: center;
+    margin-bottom: 25px;
+    color: white;
+}
+
+.profile-img {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    border: 2px solid #b806ff; /* Marginea portocalie din jurul pozei */
+    object-fit: cover;
+    margin-bottom: 15px;
+}
+
+.profile-header h1 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.profile-header p {
+    font-size: 0.85rem;
+    color: #a0a0a5; /* Gri deschis pentru textul mic */
+}
